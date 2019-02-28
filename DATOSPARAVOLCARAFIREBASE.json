@@ -1,0 +1,139 @@
+{
+  "Novedades" : {
+    "publicacion1" : {
+      "cabecera" : "Se bienvenido a MyGalaxyCatalogue",
+      "cuerpo" : "En esta aplicación podrás apostar, pero esta vez por ti! Porque tendrás a tu disposición un servicio para compartir todas las cosas que ofreces hacer, desde tus objetos que ya no necesitas hasta sacar a los perros de tu comunidad, para ello entra en el Menu de Navegación y pulsa sobre 'Mis Productos Y Servicios' para añadir tus nuevas propuestas."
+    },
+    "publicacion2" : {
+      "cabecera" : "Futuro",
+      "cuerpo" : "Esta aplicacion tiene aspiraciones de futuro, más adelante os enseñaré las nuevas novedades que estarán por venir"
+    },
+    "publicacion3" : {
+      "cabecera" : "¿Te gustaría crear tu propia catálogo como vendedor?",
+      "cuerpo" : "¿Te gustaría crear tu propia catálogo como vendedor? Ya se de productos, servicios o lo que se te ocurra, proximamente más información."
+    },
+    "publicacion4" : {
+      "cabecera" : "Aplicación creada por...",
+      "cuerpo" : "Esta aplicación ha sido creada por Salvador Rebollo Benítez, estudiante de Desarrollo de Aplicaciones Multiplataforma y entusiasta del mundo audiovisual"
+    },
+    "publicacion5" : {
+      "cabecera" : "Chat",
+      "cuerpo" : "En un futuro podrás chatear con los demás usuarios de la comunidad para llegar a un acuerdo vía app"
+    }
+  },
+  "Productos" : {
+    "ProductosRegistrados" : {
+      "-LZSNItNvI9itSBUxXmc" : {
+        "categoria" : "Objetos",
+        "descripcion" : "Monton de paja en el campo ☘️🌲🌳",
+        "estado" : "Regular/Bastante usado",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2Ffkciv2JaUoNikExuGt60Q9K0BxD2%2Ffkciv2JaUoNikExuGt60Q9K0BxD2avatar?alt=media&token=d068881e-c1bd-4f52-bf2e-72acfe91d22f",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/FotosDeProductos%2F-LZSNItNvI9itSBUxXmc27-02-2019-09_29_13_FOTO?alt=media&token=02238c18-86de-44a8-8fef-cb9390adb2f7",
+        "nombreUsuarioCreador" : "Maria Victoria",
+        "precio" : "17",
+        "productoid" : "-LZSNItNvI9itSBUxXmc",
+        "titulo" : "Monton de paja",
+        "usuarioCreadorUid" : "fkciv2JaUoNikExuGt60Q9K0BxD2"
+      },
+      "-LZ_itSZyU1BhEyQ50zr" : {
+        "categoria" : "Objetos",
+        "descripcion" : "Portatil marca ASUS\nF555L\n12 GB de RAM\n250GB SSD + 1TB HDD\nIntel i7\nNvidia 820M",
+        "estado" : "Bien",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FfJbxUmSsPeeScuzaodDZkp8jni72%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FSAVE_20190228_021913.jpegavatar?alt=media&token=09b4e9fd-68ad-4a8f-8fd2-daa02eb072b0",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/FotosDeProductos%2F-LZ_itSZyU1BhEyQ50zr27-02-2019-09_13_32_FOTO?alt=media&token=c4d50896-49c6-4b02-a85f-6c8196f8c384",
+        "nombreUsuarioCreador" : "Salva",
+        "precio" : "600",
+        "productoid" : "-LZ_itSZyU1BhEyQ50zr",
+        "titulo" : "Portatil",
+        "usuarioCreadorUid" : "fJbxUmSsPeeScuzaodDZkp8jni72"
+      },
+      "-LZfhkd5KI4250Q_mGoo" : {
+        "categoria" : "Objetos",
+        "descripcion" : "Samsung Galaxy J5 2017",
+        "estado" : "Regular/Bastante usado",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FVUcs7LPsDoR9BaySMzgnxTNuGfV2%2Fstorage%2Femulated%2F0%2Fpictures%2Ftelegram%2FIMG_20190219_000608_556.jpgavatar?alt=media&token=abf1b7d7-8ee4-4a08-9918-bb6357450372",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/FotosDeProductos%2F-LZfhkd5KI4250Q_mGoo_FOTO?alt=media&token=ac05edd0-2773-4953-b3b7-05d0b249f0d9",
+        "nombreUsuarioCreador" : "Kakarot",
+        "precio" : "100",
+        "productoid" : "-LZfhkd5KI4250Q_mGoo",
+        "titulo" : "Samsung Galaxy J5",
+        "usuarioCreadorUid" : "VUcs7LPsDoR9BaySMzgnxTNuGfV2"
+      },
+      "-LZkfLdK83hi-oiyqwwb" : {
+        "categoria" : "Objetos",
+        "descripcion" : "negro",
+        "estado" : "Bien",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2Ffkciv2JaUoNikExuGt60Q9K0BxD2%2Ffkciv2JaUoNikExuGt60Q9K0BxD2avatar?alt=media&token=d068881e-c1bd-4f52-bf2e-72acfe91d22f",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/FotosDeProductos%2F-LZkfLdK83hi-oiyqwwb_FOTO?alt=media&token=84f746ae-87a0-425d-9ca3-bbd3b915ca6c",
+        "nombreUsuarioCreador" : "Maria Victoria",
+        "precio" : "2",
+        "productoid" : "-LZkfLdK83hi-oiyqwwb",
+        "titulo" : "boligrafo",
+        "usuarioCreadorUid" : "fkciv2JaUoNikExuGt60Q9K0BxD2"
+      },
+      "-LZkg5WkT5SgTBHsSrJJ" : {
+        "categoria" : "Objetos",
+        "descripcion" : "azul",
+        "estado" : "Bien",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FfJbxUmSsPeeScuzaodDZkp8jni72%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FSAVE_20190228_021913.jpegavatar?alt=media&token=09b4e9fd-68ad-4a8f-8fd2-daa02eb072b0",
+        "imagen" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/FotosDeProductos%2F-LZkg5WkT5SgTBHsSrJJ_FOTO?alt=media&token=a00a8ce9-6885-498b-9ac6-f3a3dca9fac9",
+        "nombreUsuarioCreador" : "Salva",
+        "precio" : "12",
+        "productoid" : "-LZkg5WkT5SgTBHsSrJJ",
+        "titulo" : "lampara",
+        "usuarioCreadorUid" : "fJbxUmSsPeeScuzaodDZkp8jni72"
+      },
+      "-LZlhhCBBAugrO5MK56r" : {
+        "categoria" : "Servicios",
+        "descripcion" : "prueba",
+        "estado" : "Bien",
+        "fotoUsuarioCreador" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FfJbxUmSsPeeScuzaodDZkp8jni72%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FSAVE_20190228_021913.jpegavatar?alt=media&token=09b4e9fd-68ad-4a8f-8fd2-daa02eb072b0",
+        "imagen" : "SINFOTO",
+        "nombreUsuarioCreador" : "Salva",
+        "precio" : "10",
+        "productoid" : "-LZlhhCBBAugrO5MK56r",
+        "titulo" : "Producto1",
+        "usuarioCreadorUid" : "fJbxUmSsPeeScuzaodDZkp8jni72"
+      }
+    }
+  },
+  "Usuarios" : {
+    "UsuariosRegistrados" : {
+      "VUcs7LPsDoR9BaySMzgnxTNuGfV2" : {
+        "apellidos" : "(Kakaroto)",
+        "biografia" : "Buscando las bolas de dragon 😎",
+        "ciudad" : "Planeta Vegeta/Tierra",
+        "direccion" : "Monte Paoz",
+        "email" : "cuenta@cuenta.com",
+        "fotoPerfil" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FVUcs7LPsDoR9BaySMzgnxTNuGfV2%2Fstorage%2Femulated%2F0%2Fpictures%2Ftelegram%2FIMG_20190219_000608_556.jpgavatar?alt=media&token=abf1b7d7-8ee4-4a08-9918-bb6357450372",
+        "nombre" : "Kakarot",
+        "pais" : "Planeta Vegeta/Tierra",
+        "tlfContacto" : "Entrenando",
+        "usuarioUid" : "VUcs7LPsDoR9BaySMzgnxTNuGfV2"
+      },
+      "fJbxUmSsPeeScuzaodDZkp8jni72" : {
+        "apellidos" : "Rebollo Benítez",
+        "biografia" : "Desarrollando MyGalaxyCatalogue :)",
+        "ciudad" : "La M",
+        "direccion" : "Calle Marianela, 38, (Campanillas), 29590",
+        "email" : "salvi@salvi.com",
+        "fotoPerfil" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2FfJbxUmSsPeeScuzaodDZkp8jni72%2Fstorage%2Femulated%2F0%2FDCIM%2FCamera%2FSAVE_20190228_021913.jpegavatar?alt=media&token=09b4e9fd-68ad-4a8f-8fd2-daa02eb072b0",
+        "nombre" : "Salva",
+        "pais" : "España",
+        "tlfContacto" : "WhatsApp: 111111111",
+        "usuarioUid" : "fJbxUmSsPeeScuzaodDZkp8jni72"
+      },
+      "fkciv2JaUoNikExuGt60Q9K0BxD2" : {
+        "apellidos" : "Benitez Gomez",
+        "biografia" : "",
+        "ciudad" : "Málaga",
+        "direccion" : "Calle Marianela, 38",
+        "email" : "marivi@marivi.com",
+        "fotoPerfil" : "https://firebasestorage.googleapis.com/v0/b/mygalaxycatalogue.appspot.com/o/InfoDePerfilUsuarios%2Ffkciv2JaUoNikExuGt60Q9K0BxD2%2Ffkciv2JaUoNikExuGt60Q9K0BxD2avatar?alt=media&token=d068881e-c1bd-4f52-bf2e-72acfe91d22f",
+        "nombre" : "Maria Victoria",
+        "pais" : "España",
+        "usuarioUid" : "fkciv2JaUoNikExuGt60Q9K0BxD2"
+      }
+    }
+  }
+}

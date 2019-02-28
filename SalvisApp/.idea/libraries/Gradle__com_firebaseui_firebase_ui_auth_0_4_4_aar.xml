@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.firebaseui:firebase-ui-auth:0.4.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-0.4.4.aar/cc80ee3f8b38ace084533c00e71a223e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-0.4.4.aar/cc80ee3f8b38ace084533c00e71a223e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebaseui/firebase-ui-auth/0.4.4/3259e6e11e67137bf4520ea83593df571ff7e9b6/firebase-ui-auth-0.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
