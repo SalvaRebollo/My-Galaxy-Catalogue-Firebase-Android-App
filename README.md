@@ -17,6 +17,9 @@
   <img width="400px" src="/img/1 (4).jpeg">
 </div>
 
+#### Perfil del usuario logeado
+<img width="400px" src="/img/2.gif">
+
 #### Cuando pulsamos un producto se nos abre su información para poder verla más en detalle y contactar con el creador:
 <img width="400px" src="/img/1 (8).gif">
 
