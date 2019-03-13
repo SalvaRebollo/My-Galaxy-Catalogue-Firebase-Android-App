@@ -14,7 +14,9 @@
 <img width="400px" src="/img/1 (6).jpeg">
 
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0005.jpg">
+
 #### Pantalla de registro
+
 <img width="400px" src="/img/1 (5).jpeg">
 
 <img width="800px" src="/img/screenshotsandpresentation/MyGalaxyCatalogue Exp_page-0006.jpg">
